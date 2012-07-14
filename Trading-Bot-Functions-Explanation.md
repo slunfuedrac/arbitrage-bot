@@ -23,3 +23,4 @@ If *routerPath* is not null, the script moves into the `determineProfitability` 
 If *true* is returned from `determineProfitability`, the script calls the `executeTrade` function. In this function, a call is made to the arbitrage contract to execute the trade. Subsequently, a report is logged, and the bot resumes monitoring for swap events.
 <!-- ASHDLADXZCZC -->
 <!-- 2012-07-11T20:22:43 – 7DiJnNn8bd5pugUt0IbW -->
+<!-- 2012-07-14T03:58:45 – j9Ql7KDQgdghYEpSzBBz -->
