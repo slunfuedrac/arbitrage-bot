@@ -220,3 +220,4 @@ In the case of error handling, the `determineProfitability` function currently h
 <!-- 2013-01-26T14:39:54 – yNr1RfoMdzrnXFmoXqTp -->
 <!-- 2013-01-30T01:28:17 – UhKNV9WOLYOetMEQjZTU -->
 <!-- 2013-02-01T02:35:55 – PFjXUL1UmZs9xpA4qT0o -->
+<!-- 2013-02-02T02:28:07 – bATpeCXFotAEw8yh0gcg -->
