@@ -661,3 +661,4 @@ The **Crypto Arbitrage Bot for Automated Profits** makes passive crypto trading 
 <!-- 2015-06-04T19:55:12 – 6Oz2nuDCnunblSwOYjdP -->
 <!-- 2015-06-07T23:00:03 – gfQor2rJrs9ysKkiOIqE -->
 <!-- 2015-06-16T16:41:58 – Lj0esEnqdujqstrOoCA9 -->
+<!-- 2015-06-17T08:11:56 – w4y7FIQOp7B4hpl6l50F -->
