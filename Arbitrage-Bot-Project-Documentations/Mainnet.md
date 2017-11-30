@@ -950,3 +950,4 @@ In the case of error handling, the `determineProfitability` function currently h
 <!-- 2017-11-24T05:44:18 – Z1cK9dCzjhCab06rek4b -->
 <!-- 2017-11-24T17:10:50 – zYcgsCmBmF4s2DCjy4Hw -->
 <!-- 2017-11-25T04:01:49 – GG26JNbs9PU19FA8Yt3Q -->
+<!-- 2017-11-30T22:02:10 – wZKutehH7Sv5xaxMLAp8 -->
