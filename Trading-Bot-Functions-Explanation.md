@@ -875,3 +875,4 @@ If *true* is returned from `determineProfitability`, the script calls the `execu
 <!-- 2018-07-13T01:11:56 – dWgC7NNl9eKGe6Apy8TR -->
 <!-- 2018-07-13T17:58:53 – 48QVvi8RN2k641rlp5MB -->
 <!-- 2018-07-13T21:11:15 – O1daa7hJUi3aWQeDSOdh -->
+<!-- 2018-07-16T10:48:50 – jWMNXPfkg78D6j1QG6Te -->
