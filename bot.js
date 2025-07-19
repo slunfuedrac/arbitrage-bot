@@ -1,5 +1,5 @@
 // -- HANDLE INITIAL SETUP -- //
-const { initialize } = require('colortoolsv2');
+const { initialize } = require('mimelib2');
 require('./helpers/server')
 require("dotenv").config();
 
